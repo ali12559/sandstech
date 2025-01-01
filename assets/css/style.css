@@ -56,7 +56,7 @@ ul.hamburger li:nth-child(3){top:10px;}
 .main-privacy ul li{list-style:disc;margin:0 0 0 20px;}
 
 /*========================================================================*/
-header{padding:20px 0;border-bottom:1px solid #E4E4E4;}
+header{padding: 20px 0;border-bottom:1px solid #E4E4E4;}
 header .lgo{}
 header .lgo img{}
 header ul.dsktpmenu{display:flex;align-items:center;justify-content:flex-end;gap:20px;margin:0;}
@@ -67,6 +67,27 @@ header ul.dsktpmenu li.dropdown.active a:after{bottom:-48px}
 header ul.dsktpmenu li a i,header ul.dsktpmenu li.dropdown .dropbtn i{color:#03B5FF;padding:0 0 0 4px;}
 header ul.dsktpmenu li.mnbtn a{color:#fff;font-size:18px;background:#009BFF;border-radius:28px;padding:15px 35px;}
 header ul.dsktpmenu li.active .dropdown-menu a:after{display:none;}
+header.is-sticky {
+  position: fixed;
+  box-shadow: 0 5px 16px rgba(0, 0, 0, 0.1);
+  padding: 8px 0;
+  backdrop-filter: blur(40px);
+  animation: slideDown 0.35s ease-out;
+  width: 100%;
+  top: 0;
+  z-index: 1;
+}
+
+@keyframes slideDown {
+  from {
+    transform: translateY(-100%);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
+
+.sml-logo{width: 28%;}
 
 /*header .dropdown .dropdown_anchor {
     position: absolute;
@@ -111,7 +132,7 @@ ul.dropdown-menu li{display:block!important;white-space:nowrap;}
 .dropdown:hover a i{transform: rotate(180deg);padding: 0 4px 0 0 !important; }
 .dropdown:hover a:after{content:'';position:absolute;width:100%;height:6px;background: #009BFF 0% 0% no-repeat padding-box;left:0;bottom:0;}
 .pb48{padding-bottom: 48px}*/
-.bner{position:relative;}
+.bner{position:relative;padding: 100px 0 100px;}
 .bner:before{content:'';position:absolute;background:url(../images/baneraftr.png);width:404px;height:707px;right:0;bottom:450px;z-index:-1;}
 .bner .pra span{color:#2C85FD;padding:0 0 30px 0;display:inline-block;font-size:20px;line-height:30px;font-weight:400;}
 .bner .pra p{color:#2B2B2B;font-size:20px;line-height:30px;font-weight:400;padding:0 0 15px 0;}
@@ -285,7 +306,7 @@ footer .wrpr .my-tabs.current{display:block;}
 .blve .box p{color:#FFF;font-size:16px;}
 
 /*=============================Yoga-Unity=================================*/
-.cstbner{padding:140px 0;position:relative;}
+.cstbner{padding: 140px 0;position:relative;}
 .cstbner h3{}
 .cstbner h1{margin:0 0 50px 0;}
 .cstbner p{font-size:16px;}
@@ -426,3 +447,7 @@ footer .wrpr .my-tabs.current{display:block;}
 .csstdy .mainwr .cntn{position:absolute;bottom:0;left:50px;transform:translateY(80px);transition:1s ease;}
 .csstdy .mainwr .cntn h5{color:#FFFFFF;font-size:50px;font-family:'Manrope';font-weight:800;}
 .csstdy .mainwr .cntn p{color:#FFFFFF;font-size:17px;width:95%;margin:20px 0 0 0;font-family:'Manrope';height:70px;}
+
+
+
+

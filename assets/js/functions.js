@@ -610,6 +610,38 @@ $(function(){
   
 });
 
+$(function() { var logo = $(".lrg-logo"); $(window).scroll(function() {
+var scroll = $(window).scrollTop();
+
+    if (scroll >= 150) {
+      if(!logo.hasClass("sml-logo")) {
+        logo.hide();
+        logo.removeClass('lrg-logo').addClass("sml-logo").fadeIn( "slow");
+        logo.attr("src", "assets/images/sands.gif"); // Change the image
+      }
+    } else {
+      if(!logo.hasClass("lrg-logo")) {
+        logo.hide();
+        logo.removeClass("sml-logo").addClass('lrg-logo').fadeIn( "slow");
+        logo.attr("src", "assets/images/logo.webp"); // Change the image
+      }
+    }
+
+});
+});
+
+const header = document.querySelector(".header");
+const toggleClass = "is-sticky";
+
+window.addEventListener("scroll", () => {
+  const currentScroll = window.pageYOffset;
+  if (currentScroll > 150) {
+    header.classList.add(toggleClass);
+  } else {
+    header.classList.remove(toggleClass);
+  }
+});
+
 
 
 

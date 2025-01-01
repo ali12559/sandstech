@@ -11,8 +11,8 @@ $folder_name = ""; $path = 'http://'.$_SERVER['HTTP_HOST'].'/'.$folder_name;
       <div class="container wow fadeIn" data-wow-duration="2s" data-wow-delay="0.3s">
          <div class="row align-items-center">
             <div class="col-lg-3 col-md-6 ">
-               <div class="lgo">
-                  <a href="<?php echo $path;?>"><img class="lazy " data-src="<?php echo $basesurl;?>images/logo.webp" alt="" src="<?php echo $basesurl;?>images/logo.webp" data-loaded="true"></a>
+               <div class="lgo ">
+                  <a href="<?php echo $path;?>"><img class="lazy lrg-logo" data-src="<?php echo $basesurl;?>images/logo.webp" alt="" src="<?php echo $basesurl;?>images/logo.webp" data-loaded="true"></a>
                </div>
             </div>
             <div class="col-lg-9 d-lg-block d-md-none d-sm-none d-none">
