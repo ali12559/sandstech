@@ -603,7 +603,7 @@ $(function() {
             if (!logo.hasClass("sml-logo")) {
                 logo.hide();
                 logo.removeClass('lrg-logo').addClass("sml-logo").fadeIn("slow");
-                logo.attr("src", "assets/images/sands.gif"); // Change the image
+                logo.attr("src", "assets/images/blcksmllogo.png"); // Change the image
             }
         } else {
             if (!logo.hasClass("lrg-logo")) {
