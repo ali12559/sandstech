@@ -617,14 +617,17 @@ $(function() {
 });
 
 const header = document.querySelector(".header");
+const nav = document.querySelector(".nav");
 const toggleClass = "is-sticky";
 
 window.addEventListener("scroll", () => {
     const currentScroll = window.pageYOffset;
     if (currentScroll > 150) {
         header.classList.add(toggleClass);
+        nav.classList.add(toggleClass);
     } else {
         header.classList.remove(toggleClass);
+        nav.classList.remove(toggleClass);
     }
 });
 

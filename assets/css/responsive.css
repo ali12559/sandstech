@@ -251,6 +251,7 @@
 	.cntct ul li a{font-size:22px;}
 	.relty .rht h5{margin:10px 0 0 0}
 	.relty .tp{margin:0 0 50px 0}
+	header .sml-logo{width: 15%}
 }
 @media only screen and (max-width:575px){
 	.main-heading{font-size:24px}
@@ -364,6 +365,8 @@
 	.cntct form .form-group .form-control{height:40px;}
 	.cntct form .form-group button{width:70%;margin:20px auto;padding:13px 0;}
 	.relty .rht h5{font-size:15px;}
+	header .sml-logo{width: 23% !important;}
+
 }
 @media only screen and (max-width:480px){
 }

@@ -72,6 +72,7 @@ header.is-sticky{position:fixed;box-shadow:0 5px 16px rgba(0,0,0,0.1);padding:8p
     from{transform:translateY(-100%);}
     to{transform:translateY(0);}
 }
+.nav.is-sticky{animation:slideDown 0.35s ease-out;position: fixed;}
 .sml-logo{width:28%;}
 ul.dropdown-menu{display:none;}
 li.dropdown{position:relative;}
