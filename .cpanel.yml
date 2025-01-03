@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sandetav/revamp.sandstech.org/
+    - /bin/cp * $DEPLOYPATH
