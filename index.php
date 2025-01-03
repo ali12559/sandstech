@@ -23,7 +23,7 @@
 			<div class="container">
 				<div class="row align-items-center">
 					<div class="col-md-6" data-aos="fade-right">
-						<h1 class="main-heading">Welcome Digital Revolution <span>.</span></h1>
+						<h1 class="main-heading"> Digital Revolution <span>.</span></h1>
 					</div>
 					<div class="col-md-6" data-aos="fade-left">
 						<div class="pra" >
