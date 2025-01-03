@@ -14,6 +14,7 @@ li,ul{list-style-type:none}
 .absolute{position:absolute}
 .sec-pad{padding:100px 0}
 .mt24{margin-top:24px}
+.mt20{margin-top:20px}
 .mt30{margin-top:30px}
 .mt40{margin-top:40px}
 .mt50{margin-top:50px}
@@ -404,3 +405,18 @@ footer .wrpr .my-tabs.current{display:block;}
 .csstdy .mainwr .cntn{position:absolute;bottom:0;left:50px;transform:translateY(80px);transition:1s ease;}
 .csstdy .mainwr .cntn h5{color:#FFFFFF;font-size:50px;font-family:'Manrope';font-weight:800;}
 .csstdy .mainwr .cntn p{color:#FFFFFF;font-size:17px;width:95%;margin:20px 0 0 0;font-family:'Manrope';height:70px;}
+
+/*=============================E-commerce=================================*/
+.ecmrce .mainwr.rht img{height:unset;object-fit:none;width:100%;border-radius:35px;}
+.ecmrce .mainwr.top img{height:485px;}
+.ecomboxes{}
+.ecomboxes .box{height: 300px;}
+.ecomboxes .box h5{font-weight: 600}
+.ecomboxes .box h3{position: relative;margin: 0 0px 30px 30px;}
+.ecomboxes .box h3:before,.ecomvisn .wrp h3:before{content: '';position: absolute;background: #009BFF;width: 10px;height: 35px;left: -30px;}
+.ecomvisn .wrp h3{position: relative;margin: 0 0 30px 30px}
+.ecomvisn{
+    background: transparent;}
+.ecomvisn .wrp h5{font-weight: 600}
+.ecomvisn{position: relative;}
+.ecomvisn:before{content: '';position: absolute;background-image: url(../images/baneraftr.png);width: 17%;height: 100%;background-size: cover;background-repeat: no-repeat;right: 0;top: 0;}

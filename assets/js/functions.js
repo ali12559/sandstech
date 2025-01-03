@@ -228,41 +228,41 @@ $(document).ready(function() {
     });
 
     ////// Box slider
-    $(".box-slider").slick({
-        speed: 2000,
-        autoplay: true,
-        autoplaySpeed: 2000,
-        centerMode: false,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        variableWidth: false,
-        infinite: true,
-        arrows: false,
-        dots: false,
-        responsive: [{
-                breakpoint: 10000,
-                settings: "unslick"
-            },
-            {
-                breakpoint: 1100,
-                settings: {
-                    unslick: true
-                }
-            },
-            {
-                breakpoint: 850,
-                settings: {
-                    slidesToShow: 2
-                }
-            },
-            {
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 1
-                }
-            },
-        ]
-    });
+    // $(".box-slider").slick({
+    //     speed: 2000,
+    //     autoplay: true,
+    //     autoplaySpeed: 2000,
+    //     centerMode: false,
+    //     slidesToShow: 3,
+    //     slidesToScroll: 1,
+    //     variableWidth: false,
+    //     infinite: true,
+    //     arrows: false,
+    //     dots: false,
+    //     responsive: [{
+    //             breakpoint: 10000,
+    //             settings: "unslick"
+    //         },
+    //         {
+    //             breakpoint: 1100,
+    //             settings: {
+    //                 unslick: true
+    //             }
+    //         },
+    //         {
+    //             breakpoint: 850,
+    //             settings: {
+    //                 slidesToShow: 2
+    //             }
+    //         },
+    //         {
+    //             breakpoint: 600,
+    //             settings: {
+    //                 slidesToShow: 1
+    //             }
+    //         },
+    //     ]
+    // });
 
     ////// Reality slider
     $(".relty-slider").slick({

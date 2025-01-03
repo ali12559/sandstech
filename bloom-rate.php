@@ -82,21 +82,21 @@
 		<div class="boxes sec-pad">
 			<div class="container">
 				<div class="row box-slider">
-					<div class="col-md-3">
+					<div class="col-lg-3 col-md-6">
 						<div class="box">
 							<h3>Global Community & Live Classes</h3>
 							<p>Glo's global impact is not just about content but also the sense of community it fosters. Through daily live classes, users from around the world connect in real-time, creating a shared experience that transcends geographical boundaries. The ability to sign up in advance for live sessions adds an element of anticipation and commitment, enhancing the overall user engagement. Glo's community extends to social media, where users share their experiences and connect beyond the platform.
 							</p>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-lg-3 col-md-6">
 						<div class="box">
 							<h3>Personalized Experience</h3>
 							<p>Glo goes beyond a one-size-fits-all approach. The platform empowers users to tailor their wellness journey, allowing them to choose classes that align with their skill levels, time constraints, and specific goals. The personalized experience extends to the real-time guidance provided during live classes, creating an interactive and supportive environment. The platform also employs AI-driven recommendations, ensuring users discover new classes that align with their preferences.
 							</p>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-lg-3 col-md-6">
 						<div class="box">
 							<h3>Impact and Results
 							</h3>
@@ -104,7 +104,7 @@
 							</p>
 						</div>
 					</div>
-					<div class="col-md-3">
+					<div class="col-lg-3 col-md-6">
 						<div class="box">
 							<h3>Future Outlook
 							</h3>

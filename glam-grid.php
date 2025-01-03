@@ -88,7 +88,7 @@
 		<div class="boxes sec-pad">
 			<div class="container">
 				<div class="row box-slider">
-					<div class="col-md-6">
+					<div class="col-lg-6 col-md-12">
 						<div class="box">
 							<h3>Unique Selling Points
 							</h3>
@@ -103,7 +103,7 @@
 							</ul>
 						</div>
 					</div>
-					<div class="col-md-6">
+					<div class="col-lg-6 col-md-12">
 						<div class="box">
 							<h3>Impact
 							</h3>

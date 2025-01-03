@@ -44,6 +44,9 @@
 	.visn .wrp p{font-size:16px;}
 	.cnclsn.glmgrd .image{width:70%}
 	.cnclsn.glmgrd .image:before{width:80%;bottom:-40px}
+	.ecmrce .mainwr.top img{height:418px;}
+	.ecomboxes .box{height:300px;}
+	.ecomvisn .wrp h3{margin:0 0 30px 30px}
 }
 @media only screen and (max-width:1380px){
 }
@@ -52,7 +55,8 @@
 	header ul.dsktpmenu{gap:18px;padding:0;}
 	header ul.dsktpmenu li a{font-size:14px;}
 	header ul.dsktpmenu li.mnbtn a{padding:15px 25px;}
-	header ul.dsktpmenu li.active a:after,.dropdown a.selected:after{bottom:-42px!important}
+	header ul.dsktpmenu li.active a:after,
+	.dropdown a.selected:after{bottom:-42px!important}
 	.dropdown-menu{margin:40px 0 0 0;}
 	.bner:before{width:200px;}
 	.cycle .drp{padding:25px 0 25px 4px;}
@@ -106,14 +110,18 @@
 	.cntct form .form-group textarea{height:150px;}
 	.relty .box{padding:40px 10px;}
 	.cnclsn.glmgrd .image:before{right:-150px}
+	.ecmrce .mainwr.top img{height:352px}
+	.ecomvisn .wrp h3{margin:0 0 30px 30px}
 }
 @media only screen and (max-width:1280px){
 }
 @media screen and (max-width:1025px){
 }
 @media screen and (max-width:992px){
+	[data-aos]{pointer-events:auto!important;opacity:1!important;transform:none!important;}
 }
 @media screen and (max-width:991px){
+	header .lgo{position:relative;z-index:20;display:inline-block;}
 	.sec-pad{padding:50px 0}
 	.srvcs .wrp{margin:20px 10px;}
 	.main-heading{font-size:34px;}
@@ -191,6 +199,13 @@
 	.relty .rht h5{font-size:20px;}
 	.relty .box{margin:0 10px}
 	.cnclsn.glmgrd .image:before{right:-100px;}
+	.ecmrce .mainwr.top img{height:263px;}
+	.ecmrce .mainwr .cntn h5{font-size:30px}
+	.ecmrce .mainwr .cntn p{width:90%}
+	.boxes .box ul{overflow-y:scroll;height:290px;}
+	.boxes .box{margin:20px 0;}
+	.ecomboxes .box{height:310px}
+	.ecomvisn .wrp h3{margin:0 0 30px 30px}
 }
 @media only screen and (max-width:820px){
 }
@@ -251,7 +266,8 @@
 	.cntct ul li a{font-size:22px;}
 	.relty .rht h5{margin:10px 0 0 0}
 	.relty .tp{margin:0 0 50px 0}
-	header .sml-logo{width: 15%}
+	header .sml-logo{width:15%}
+	.boxes .box ul{height:180px}
 }
 @media only screen and (max-width:575px){
 	.main-heading{font-size:24px}
@@ -265,7 +281,8 @@
 	.copyright p{font-size:14px;text-align:center;}
 	.copyright ul li a{font-size:12px;}
 	.copyright ul{justify-content:center;}
-	.map h4,.map h5{text-align:center;}
+	.map h4,
+	.map h5{text-align:center;}
 	.topftr h5{font-size:24px;}
 	.srvcs .wrp h6{padding:10px 0;}
 	.inerbaner .cnt h5{font-size:20px;}
@@ -281,7 +298,8 @@
 	.sercta .row{border-radius:30px;}
 	.sercta .cnt h1{font-size:20px;}
 	.sercta .btn a{padding:10px 13px;}
-	.sercta .text-end,.sercta .cnt{text-align:center!important;}
+	.sercta .text-end,
+	.sercta .cnt{text-align:center!important;}
 	.sercta .btn{margin:20px 0 0 0;}
 	.cstm ul.tabs li{flex:0 0 30%}
 	.cstm:after{width:100%;}
@@ -365,8 +383,11 @@
 	.cntct form .form-group .form-control{height:40px;}
 	.cntct form .form-group button{width:70%;margin:20px auto;padding:13px 0;}
 	.relty .rht h5{font-size:15px;}
-	header .sml-logo{width: 23% !important;}
-
+	header .sml-logo{width:23%!important;}
+	.boxes .box ul li{font-size:14px}
+	.boxes .box ul{height:330px}
+	.ecomboxes .box{height:300px}
+	.ecomboxes .box p{overflow-y:auto;height:200px}
 }
 @media only screen and (max-width:480px){
 }
