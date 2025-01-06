@@ -36,7 +36,7 @@
 						</ul>
 					</div>
 					<div class="col-md-6">
-						<form enctype="multipart/form-data" id="contact-form" class="offr-frm" method="post" action="../thankyou/">
+						<form enctype="multipart/form-data" id="contact-form" class="offr-frm" method="post" action="./thankyou/">
 							<div class="row align-items-center justify-content-between ">
 								<div class="col-md-12">
                                 	<h3>We would love to hear from you!</h3>

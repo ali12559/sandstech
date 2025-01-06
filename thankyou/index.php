@@ -5,8 +5,8 @@ $title = "Thank You";
 // CTA Form
 if (isset($_POST['banerform'])) {
     $from_email      = $_POST["em"]; // Use "em" instead of "email"
-    $recipient_email = 'leads@manhattanbookwriting.com';
-    $subject         = "Manhattan Book Writing | Banner Bottom Form";
+    $recipient_email = 'info@sandstech.org';
+    $subject         = "sandstech | Banner Bottom Form";
     $sender_name     = filter_var($_POST["cn"], FILTER_SANITIZE_STRING);
     $reply_to_email  = filter_var($_POST["em"], FILTER_SANITIZE_STRING);
     $number          = filter_var($_POST["pn"], FILTER_SANITIZE_STRING);
@@ -39,8 +39,8 @@ if (isset($_POST['banerform'])) {
 // POPUP Form
 if (isset($_POST['popupform'])) {
     $from_email      = $_POST["popemail"];
-    $recipient_email = 'leads@manhattanbookwriting.com';
-    $subject         = "Manhattan Book Writing | POPUP Form";
+    $recipient_email = 'info@sandstech.org';
+    $subject         = "sandstech | POPUP Form";
     $sender_name     = filter_var($_POST["popname"], FILTER_SANITIZE_STRING);
     $reply_to_email  = filter_var($_POST["popemail"], FILTER_SANITIZE_STRING);
     $contact         = filter_var($_POST["popnumber"], FILTER_SANITIZE_STRING);
@@ -71,8 +71,8 @@ if (isset($_POST['popupform'])) {
 //Ghostwriting Form
 if (isset($_POST['bottomform'])) {
     $from_email         = $_POST["email"]; 
-    $recipient_email    = 'leads@manhattanbookwriting.com'; 
-    $subject = "Manhattan Book Writing | Bottom Form" ;
+    $recipient_email    = 'info@sandstech.org'; 
+    $subject = "sandstech | Bottom Form" ;
     $sender_name    = filter_var($_POST["gname"], FILTER_SANITIZE_STRING); 
     $reply_to_email = filter_var($_POST["gemail"], FILTER_SANITIZE_STRING); 
     $contact        = filter_var($_POST["gnumber"], FILTER_SANITIZE_STRING);
@@ -86,14 +86,14 @@ if (isset($_POST['bottomform'])) {
         $headers .= "From:".$from_email."\r\n"; 
         $headers .= "Reply-To: ".$reply_to_email."" . "\r\n";
         $headers .= "BCC: ,";
-		$body .= "\n Name: " . $sender_name . "<br/>";
-		$body .= "\n Email: " . $reply_to_email . "<br/>"; 
-		$body .= "\n Contact Number: " . $contact . "<br/>";
-// 		$body .= "\n Services: " . $service . "<br/>";
+        $body .= "\n Name: " . $sender_name . "<br/>";
+        $body .= "\n Email: " . $reply_to_email . "<br/>"; 
+        $body .= "\n Contact Number: " . $contact . "<br/>";
+//      $body .= "\n Services: " . $service . "<br/>";
         $body .= "\n Message: " . $message . "<br/>";
-		$body .= "\n Page Url: " . $pageurl2 . "<br/>";
-		$body .= "\n IP Address: " . $ip . "<br/>";
-		$body .= "\n City: " . $details->city;
+        $body .= "\n Page Url: " . $pageurl2 . "<br/>";
+        $body .= "\n IP Address: " . $ip . "<br/>";
+        $body .= "\n City: " . $details->city;
         $body .= "$boundary\r\n";
     $success = @mail($recipient_email, $subject, $body, $headers);
 }
@@ -101,8 +101,8 @@ if (isset($_POST['bottomform'])) {
 //Ghostwriting Form
 if (isset($_POST['aboutus'])) {
     $from_email         = $_POST["email"]; 
-    $recipient_email    = 'leads@manhattanbookwriting.com'; 
-    $subject = "Manhattan Book Writing | About Us Form" ;
+    $recipient_email    = 'info@sandstech.org'; 
+    $subject = "sandstech | About Us Form" ;
     $sender_name    = filter_var($_POST["gname"], FILTER_SANITIZE_STRING); 
     $reply_to_email = filter_var($_POST["gemail"], FILTER_SANITIZE_STRING); 
     $contact        = filter_var($_POST["gnumber"], FILTER_SANITIZE_STRING);
@@ -116,13 +116,13 @@ if (isset($_POST['aboutus'])) {
         $headers .= "From:".$from_email."\r\n"; 
         $headers .= "Reply-To: ".$reply_to_email."" . "\r\n";
         $headers .= "BCC: ,";
-		$body .= "\n Name: " . $sender_name . "<br/>";
-		$body .= "\n Email: " . $reply_to_email . "<br/>"; 
-		$body .= "\n Contact Number: " . $contact . "<br/>";
-		$body .= "\n Services: " . $service . "<br/>";
-		$body .= "\n Page Url: " . $pageurl . "<br/>";
-		$body .= "\n IP Address: " . $ip . "<br/>";
-		$body .= "\n City: " . $details->city;
+        $body .= "\n Name: " . $sender_name . "<br/>";
+        $body .= "\n Email: " . $reply_to_email . "<br/>"; 
+        $body .= "\n Contact Number: " . $contact . "<br/>";
+        $body .= "\n Services: " . $service . "<br/>";
+        $body .= "\n Page Url: " . $pageurl . "<br/>";
+        $body .= "\n IP Address: " . $ip . "<br/>";
+        $body .= "\n City: " . $details->city;
         $body .= "$boundary\r\n";
     $success = @mail($recipient_email, $subject, $body, $headers);
 }
@@ -131,8 +131,8 @@ if (isset($_POST['aboutus'])) {
 //Contact Form
 if (isset($_POST['contact-form'])) {
     $from_email         = $_POST["email"]; 
-    $recipient_email    = 'leads@manhattanbookwriting.com'; 
-    $subject = "Manhattan Book Writing | Contact From" ;
+    $recipient_email    = 'info@sandstech.org'; 
+    $subject = "sandstech | Contact From" ;
     $sender_name    = filter_var($_POST["contactname"], FILTER_SANITIZE_STRING); 
     $reply_to_email = filter_var($_POST["contactemail"], FILTER_SANITIZE_STRING); 
     $contact        = filter_var($_POST["contactphone"], FILTER_SANITIZE_STRING);
@@ -146,13 +146,13 @@ if (isset($_POST['contact-form'])) {
         $headers .= "From:".$from_email."\r\n"; 
         $headers .= "Reply-To: ".$reply_to_email."" . "\r\n";
         $headers .= "BCC: ,";
-		$body .= "\n Name: " . $sender_name . "<br/>";
-		$body .= "\n Email: " . $reply_to_email . "<br/>"; 
-		$body .= "\n Contact Number: " . $contact . "<br/>";
-		$body .= "\n Message: " . $message . "<br/>";
-		$body .= "\n Page Url: " . $pageurl . "<br/>";
-		$body .= "\n IP Address: " . $ip . "<br/>";
-		$body .= "\n City: " . $details->city;
+        $body .= "\n Name: " . $sender_name . "<br/>";
+        $body .= "\n Email: " . $reply_to_email . "<br/>"; 
+        $body .= "\n Contact Number: " . $contact . "<br/>";
+        $body .= "\n Message: " . $message . "<br/>";
+        $body .= "\n Page Url: " . $pageurl . "<br/>";
+        $body .= "\n IP Address: " . $ip . "<br/>";
+        $body .= "\n City: " . $details->city;
         $body .= "$boundary\r\n";
     $success = @mail($recipient_email, $subject, $body, $headers);
 }
@@ -160,8 +160,8 @@ if (isset($_POST['contact-form'])) {
 //Auto Popup Form
 // if (isset($_POST['popupform'])) {
 //     $from_email         = $_POST["email"]; 
-//     $recipient_email    = 'leads@manhattanbookwriting.com'; 
-//     $subject = "Manhattan Book Writing | Offer Popup Form" ;
+//     $recipient_email    = 'info@sandstech.org'; 
+//     $subject = "sandstech | Offer Popup Form" ;
 //     $sender_name    = filter_var($_POST["name"], FILTER_SANITIZE_STRING); 
 //     $reply_to_email = filter_var($_POST["email"], FILTER_SANITIZE_STRING); 
 //     $contact        = filter_var($_POST["phone"], FILTER_SANITIZE_STRING);
@@ -175,13 +175,13 @@ if (isset($_POST['contact-form'])) {
 //         $headers .= "From:".$from_email."\r\n"; 
 //         $headers .= "Reply-To: ".$reply_to_email."" . "\r\n";
 //         $headers .= "BCC: ,";
-// 		$body .= "\n Name: " . $sender_name . "<br/>";
-// 		$body .= "\n Email: " . $reply_to_email . "<br/>"; 
-// 		$body .= "\n Contact Number: " . $contact . "<br/>";
-// 		$body .= "\n Message: " . $message . "<br/>";
-// 		$body .= "\n Page Url: " . $pageurl . "<br/>";
-// 		$body .= "\n IP Address: " . $ip . "<br/>";
-// 		$body .= "\n City: " . $details->city;
+//      $body .= "\n Name: " . $sender_name . "<br/>";
+//      $body .= "\n Email: " . $reply_to_email . "<br/>"; 
+//      $body .= "\n Contact Number: " . $contact . "<br/>";
+//      $body .= "\n Message: " . $message . "<br/>";
+//      $body .= "\n Page Url: " . $pageurl . "<br/>";
+//      $body .= "\n IP Address: " . $ip . "<br/>";
+//      $body .= "\n City: " . $details->city;
 //         $body .= "$boundary\r\n";
 //     $success = @mail($recipient_email, $subject, $body, $headers);
 // }
@@ -203,17 +203,7 @@ if (isset($success) && $success) {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
 <!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-(function(){
-var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-s1.async=true;
-s1.src='https://embed.tawk.to/654e8018958be55aeaae8066/1heta8oie';
-s1.charset='UTF-8';
-s1.setAttribute('crossorigin','*');
-s0.parentNode.insertBefore(s1,s0);
-})();
-</script>
+
 <!--End of Tawk.to Script-->
 
 <!-- Event snippet for Website lead conversion page -->
@@ -226,7 +216,7 @@ s0.parentNode.insertBefore(s1,s0);
 
 </head>
 <body>
-	<section class="error-page onepage-screen-area">
+    <section class="error-page onepage-screen-area">
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
@@ -235,13 +225,13 @@ s0.parentNode.insertBefore(s1,s0);
                             <h4 class="thakyouhead"> Thank You <?php echo $sender_name; ?></h4>
                             <p>We can already envision a bright future ahead for you. Our customer support team will be in contact with you shortly. Now that you have sown the seeds of your success, we’ll ripen your fruit of prosperity.</p>
                             <ul class="hdrbtn">
-    							<li class="blck">
-    								<a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
-    							</li>
-    							<li class="blu mrgnrl">
-    								<a href="../" class="popup" id="popup">Go Back To Home</a>
-    							</li>
-		               	    </ul>
+                                <li class="blck">
+                                    <a href="javascript:void(Tawk_API.toggle())">Live Chat</a>
+                                </li>
+                                <li class="blu mrgnrl">
+                                    <a href="../" class="popup" id="popup">Go Back To Home</a>
+                                </li>
+                            </ul>
                         </div>
                     </div>
                     <!--<div class="col-lg-6">-->
@@ -270,9 +260,9 @@ ul.hdrbtn{justify-content: center;}
 .content p { font-size: 20px; line-height: 40px;color: #fff;margin-bottom: 25px;padding: 0 180px; }h4.thakyouhead { font-size: 40px;color: #fff; margin: 80px 0px 20px; font-weight: 600; border-bottom: 2px solid #00b3d8; line-height: 1; padding-bottom: 10px; display: inline-block; }.onepage-screen-area {margin-top: 0px;padding: 0px 0 50px;}a.axil-btn.btn-fill-primary {border: none;box-shadow: none;padding: 13px 28px;border-radius: 5px;outline: none;letter-spacing: 1px;text-transform: uppercase;font-size: 17px; display: inline-block;margin: 0 auto!important;height: auto;color: #fff;font-weight: 600;background: linear-gradient(to right,#e86236 , #e86236);text-decoration: none;}.content {overflow: inherit;}.onepage-screen-area {position: relative;z-index: 1;background: url(/assets/images/bannerbg.png); background-size:cover; background-repeat:no-repeat; min-height: 500px;height: 100vh;padding: 150px 0;display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-align: center;-webkit-align-items: center;-ms-flex-align: center;align-items: center;overflow: hidden;}
 </style>
 <script>
-// window.setTimeout(function() {
-//     window.location.href = 'http://manhattanbookwriting.com';
-// }, 5000);
+window.setTimeout(function() {
+    window.location.href = 'http://sandstech.org';
+}, 5000);
     </script>
 </body>
 </html>
