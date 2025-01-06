@@ -315,6 +315,8 @@
 	.csstdy .mainwr .cntn h5{font-size:30px;}
 	.cntct ul li a{font-size:18px;}
 	.cntct p{padding:20px 0;}
+	header.is-sticky{display: none;}
+	.nav.is-sticky{display: none;}
 }
 @media only screen and (max-width:479px){
 	header .lgo img{width:60%;}
@@ -388,6 +390,7 @@
 	.boxes .box ul{height:330px}
 	.ecomboxes .box{height:300px}
 	.ecomboxes .box p{overflow-y:auto;height:200px}
+
 }
 @media only screen and (max-width:480px){
 }
