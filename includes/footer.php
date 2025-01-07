@@ -42,6 +42,7 @@
                         <ul class="tabs">
                             <li class="current" data-targetit="pak"><img src="<?php echo $basesurl; ?>images/pakflg.png"></li>
                             <li class="" data-targetit="uae"><img src="<?php echo $basesurl; ?>images/uaeflg.png"></li>
+                            <li class="" data-targetit="usa"><img src="<?php echo $basesurl; ?>images/usaflg.png"></li>
                         </ul>
                         <li class="current my-tabs pak" >
                             <a href="tel:<?php echo $phone;?>"><?php echo $phone;?></a>
@@ -54,6 +55,12 @@
                         </li>
                         <li class=" my-tabs uae">
                             <a href="javascript:;">Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, U.A.E.</a>
+                        </li>
+                        <li class=" my-tabs usa">
+                            <a href="tel:+(737) 443-7422">+(737) 443-7422</a>
+                        </li>
+                        <li class=" my-tabs usa">
+                            <a href="javascript:;">12211 Pamela Sue CT, Meadows Place, Texas, 77477, USA</a>
                         </li>
                     </ul>
                     
