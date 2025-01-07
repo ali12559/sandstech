@@ -74,13 +74,13 @@
     <div class="container wow fadeInDown" data-wow-duration="2s" data-wow-delay="0.3s">
         <div class="row align-items-center">
             <div class="col-md-4 col-sm-4 col-12">
-                <p>© <span id="year"></span> Sands Tech Pvt. Ltd.</p>
+                <p>© <span id="year"></span> Sands Tech</p>
             </div>
             <div class="col-md-4 col-sm-4 col-12">
                 <ul class="socl">
-                    <li><a href="https://pk.linkedin.com/company/sands-tech"><i class="fa-brands fa-facebook"></i></a></li>
-                    <li><a href="https://www.instagram.com/sands_tech/"><i class="fa-brands fa-instagram"></i></a></li>
-                    <li><a href="https://pk.linkedin.com/company/sands-tech"><i class="fa-brands fa-linkedin-in"></i></a></li>
+                    <li><a href="https://www.facebook.com/sandstech.org/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+                    <li><a href="https://www.instagram.com/sands_tech/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+                    <li><a href="https://pk.linkedin.com/company/sands-tech" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
                 </ul>
             </div>
             <div class="col-md-4 col-sm-4 col-12 text-end">

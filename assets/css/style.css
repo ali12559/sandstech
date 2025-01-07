@@ -196,7 +196,7 @@ footer ul{padding:0;margin:0;}
 footer a.ftlgo{display:inline-block;padding:0 0 20px 0;}
 footer h4{color:#242424;line-height:normal;font-size:25px;font-weight:bold;padding:0 0 20px 0;}
 footer ul.lnks{}
-footer ul.lnks li{padding:5px 0;}
+footer ul.lnks li{padding:5px 0;cursor: pointer;}
 footer ul.lnks li a{font-size:16px;color:#B9B9B9;line-height:normal;}
 footer .wrpr ul.tabs{display:flex;align-items:center;gap:10px;}
 footer .wrpr .my-tabs{display:none;}
