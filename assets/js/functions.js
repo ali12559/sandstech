@@ -559,14 +559,7 @@ toggle between hiding and showing the dropdown content */
 // });
 
 
-$(function($) {
-    let url = window.location.href;
-    $('.lnk a ').each(function() {
-        if (this.href === url) {
-            $(this).closest('.lnk').addClass('active');
-        }
-    });
-});
+
 
 $(function() {
 
