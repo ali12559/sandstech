@@ -317,6 +317,9 @@
 	.cntct p{padding:20px 0;}
 	header.is-sticky{display: none;}
 	.nav.is-sticky{display: none;}
+	.copyright .text-end{text-align: center !important;}
+	.copyright ul.socl{margin: 10px 0;}
+	.copyright p.usd{padding: 10px 0 0 0;}
 }
 @media only screen and (max-width:479px){
 	header .lgo img{width:60%;}
