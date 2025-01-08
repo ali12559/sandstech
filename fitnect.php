@@ -24,15 +24,15 @@
 				<div class="row align-items-center">
 					<div class="col-md-6">
 						<div class="lftimg">
-							<img src="assets/images/cret/lgo.png" alt="">
+							<img src="assets/images/fitnect/lgo.png" alt="">
 						</div>
-						<h1 class="main-heading">Lorem ipsum dolor sit amet consectetur<span></span></h1>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+						<h1 class="main-heading">Fitness Influencers<span></span></h1>
+						<p>FitNect is the ultimate platform for fitness enthusiasts and influencers to connect, inspire, and transform lives through personalized video calls and local meetups.
 						</p>
 					</div>
 					<div class="col-md-6">
 						<div class="image">
-							<img src="assets/images/cret/bnrimg.png" alt="">
+							<img src="assets/images/fitnect/bnrimg.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -43,7 +43,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="image">
-							<img src="assets/images/cret/mobimg.png" alt="">
+							<img src="assets/images/fitnect/mobimg.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -56,13 +56,13 @@
 					
 					<div class="col-md-6">
 						<div class="image">
-							<img src="assets/images/cret/cnclsnimg.png" alt="">
+							<img src="assets/images/fitnect/cnclsnimg.png" alt="">
 						</div>
 					</div>
 					<div class="col-md-6">
 						<div class="cnt">
 							<h3 class="main-heading"><span class="drkorngclr">Download</span> Our Mobile Application</h3>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+							<p>Engage in direct, real-time one-on-one interactions with top fitness influencers, gaining personalized guidance and support tailored to your fitness goals. Receive motivational encouragement from certified personal trainers who help you stay on track and push beyond your limits. Enjoy a user-friendly experience with a sleek, intuitive interface that makes scheduling and communication simple and efficient, ensuring you get the most out of every training session.
 							</p>
 							<ul >
 								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/googleplay.png"></a></li>

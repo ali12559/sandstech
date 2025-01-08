@@ -26,8 +26,8 @@
 						<div class="lftimg">
 							<img src="assets/images/ginge/lgo.png" alt="">
 						</div>
-						<h1 class="main-heading">Lorem ipsum dolor sit amet consectetur<span></span></h1>
-						<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+						<h1 class="main-heading">Leave The Recipe Books Behind with Ginge<span></span></h1>
+						<p>No more sifting through countless recipes only to find you’re always one thing short on cocktail night. Ginge references what you have, and can tell you what you already can make, or help you explore!
 						</p>
 					</div>
 					<div class="col-md-6">
@@ -62,7 +62,7 @@
 					<div class="col-md-6">
 						<div class="cnt">
 							<h3 class="main-heading"><span class="prplclr">Download</span> Our Mobile Application</h3>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+							<p>This revolutionary mobile app helps you make delicious cocktails utilizing a first of its kind specialized AI, becoming your bar assistant who is not only there to help you find what to make based on your tastes, but also manages your inventory, and is there to help answer questions and shed some light into the exciting world of cocktails!
 							</p>
 							<ul >
 								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/googleplay.png"></a></li>

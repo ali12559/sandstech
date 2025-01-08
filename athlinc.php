@@ -61,7 +61,7 @@
 					<div class="col-md-6">
 						<div class="cnt">
 							<h3 class="main-heading"><span class="bluclr">Download</span> Our Mobile Application</h3>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+							<p>At Athlinc, we are passionate about connecting aspiring athletes with the opportunities they deserve. Our mission is to simplify the athletic recruiting process for athletes, coaches, and recruiters alike with our innovative mobile app that is designed to bridge the gap between potential and opportunity.
 							</p>
 							<ul >
 								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/googleplay.png"></a></li>

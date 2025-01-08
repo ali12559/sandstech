@@ -30,9 +30,9 @@
 							<li><a href="<?php echo $phone;?>"><i class="fa-solid fa-phone"></i> <?php echo $phone;?></a></li>
 						</ul>
 						<ul class="socl">
-							<li><a href="https://pk.linkedin.com/company/sands-tech"><i class="fa-brands fa-facebook"></i></a></li>
-							<li><a href="https://www.instagram.com/sands_tech/"><i class="fa-brands fa-instagram"></i></a></li>
-							<li><a href="https://pk.linkedin.com/company/sands-tech"><i class="fa-brands fa-linkedin-in"></i></a></li>
+							<li><a href="https://www.facebook.com/sandstech.org/" target="_blank"><i class="fa-brands fa-facebook"></i></a></li>
+							<li><a href="https://www.instagram.com/sands_tech/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+							<li><a href="https://pk.linkedin.com/company/sands-tech" target="_blank"><i class="fa-brands fa-linkedin-in"></i></a></li>
 						</ul>
 					</div>
 					<div class="col-md-6">

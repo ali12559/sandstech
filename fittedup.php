@@ -62,7 +62,7 @@
 					<div class="col-md-6">
 						<div class="cnt">
 							<h3 class="main-heading"><span class="grnclr">Download</span> Our Mobile Application</h3>
-							<p>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam tortor taciti aenean luctus nullam enim, dui praesent ad dapibus tempus natoque a. Rhoncus praesent massa torquent malesuada maecenas arcu curae, porta pulvinar potenti at mus sem, vel purus proin eleifend nisi dictum. Lorem ipsum dolor sit amet consectetur.
+							<p>Easily upload images of clothing items you're considering purchasing or outfits you want to showcase. Select your audience whether it's just friends or the public and receive votes on whether you should buy the items or not. Get ratings for your outfits on a scale from 1 to 10 to gauge how well they are received. Mark your top outfits as favorites and refer back to them for inspiration whenever you need fresh ideas or style guidance.
 							</p>
 							<ul >
 								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/googleplay.png"></a></li>

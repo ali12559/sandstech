@@ -49,7 +49,7 @@
 					</div>
 					<div class="col-md-4 col-sm-6">
 						<div class="mainwr">
-							<a href="<?php echo $path;?>cret.php">
+							<a href="<?php echo $path;?>fitnect.php">
 								<img class="lazy " data-src="<?php echo $basesurl;?>images/portfolio/img3.png" alt="" src="<?php echo $basesurl;?>images/portfolio/img3.png" data-loaded="true">
 							</a>
 						</div>

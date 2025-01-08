@@ -42,7 +42,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="head">
-							<h1 class="main-heading">Helping Brands <span>Succeed</span> - Since 2021</h1>
+							<h1 class="main-heading">Helping Brands <span>Succeed</span> <br> Since 2021</h1>
 							<p>SANDS Tech has been in the market for over 2 years, providing top-notch app development, website development, and digital marketing services. We have helped hundreds of brands make a mark in the digital world - let’s work on yours.</p>
 						</div>
 					</div>
