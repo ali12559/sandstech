@@ -33,13 +33,13 @@
                     <div class="col-md-4 col-sm-6">
                         <div class="box">
                             <h3>Collaboration</h3>
-                            <p>The whole S.A.N.D.S Tech runs like a clockwork and we all have each other’s back to ensure we all are on the same page and have utmost collaboration.</p>
+                            <p>The whole SANDS Tech runs like a clockwork and we all have each other’s back to ensure we all are on the same page and have utmost collaboration.</p>
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-6">
                         <div class="box">
                             <h3>Dedication</h3>
-                            <p>S.A.N.D.S Tech is committed and dedicated to providing the best-in-class services, solutions, and support and we have a proven track record of doing so.</p>
+                            <p>SANDS Tech is committed and dedicated to providing the best-in-class services, solutions, and support and we have a proven track record of doing so.</p>
                         </div>
                     </div>
                 </div>

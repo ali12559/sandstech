@@ -216,9 +216,9 @@
 					<div class="col-md-8">
 						<div class="cnt">
 							<h3>Our Powerful <span>E-Commerce Development</span> Services</h3>
-							<p>Whether you wish to launch your e-commerce business or manage your already existing account, S.A.N.D.S Tech is equipped with all the right tools and technologies to fit your needs. Our comprehensive and customized e-commerce development services are designed to help brands succeed in the ever competitive market and maintain their success.
+							<p>Whether you wish to launch your e-commerce business or manage your already existing account, SANDS Tech is equipped with all the right tools and technologies to fit your needs. Our comprehensive and customized e-commerce development services are designed to help brands succeed in the ever competitive market and maintain their success.
 							</p>
-							<p class="mt30">The experts at S.A.N.D.S Tech specialize in managing, handling, and working with TikTok, Amazon, and Shopify. We use methodological procedures, creative skills, and analytical marketing strategies to ensure top notch results at every stage. That’s not all, we work with our clients even after launch to help them maintain their ranking and store’s performance for years to come and ensure steady growth.
+							<p class="mt30">The experts at SANDS Tech specialize in managing, handling, and working with TikTok, Amazon, and Shopify. We use methodological procedures, creative skills, and analytical marketing strategies to ensure top notch results at every stage. That’s not all, we work with our clients even after launch to help them maintain their ranking and store’s performance for years to come and ensure steady growth.
 							</p>
 							<div class="btn">
 								<a href="<?php echo $path;?>contact-us.php">Let's Discuss <i class="fa-solid fa-arrow-right"></i> </a>

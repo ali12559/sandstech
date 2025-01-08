@@ -101,7 +101,7 @@
 							<div class="brlgo">
 								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
 							</div>
-							<p>Working with S.A.N.D.S Tech was a great experience. They have a highly collaborative team that follows a great overall development procedure. I am very satisfied with the results.</p>
+							<p>Working with SANDS Tech was a great experience. They have a highly collaborative team that follows a great overall development procedure. I am very satisfied with the results.</p>
 						</div>
 					</div>
 				</li>
@@ -122,7 +122,7 @@
 							<div class="brlgo">
 								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
 							</div>
-							<p>I have been working with S.A.N.D.S tech for quite a while now. I wanted to get an app developed for my new brand, but their performance and communication impressed me a lot. I chose them to manage and maintain my app and the results are perfect.</p>
+							<p>I have been working with SANDS tech for quite a while now. I wanted to get an app developed for my new brand, but their performance and communication impressed me a lot. I chose them to manage and maintain my app and the results are perfect.</p>
 						</div>
 					</div>
 				</li>
@@ -143,7 +143,7 @@
 							<div class="brlgo">
 								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
 							</div>
-							<p>It was a wonderful experience working with S.A.N.D.S Tech. I really liked their methodological approach, creative thinking, and use of technology where it should be. I highly recommend the team.</p>
+							<p>It was a wonderful experience working with SANDS Tech. I really liked their methodological approach, creative thinking, and use of technology where it should be. I highly recommend the team.</p>
 						</div>
 					</div>
 				</li>
@@ -164,7 +164,7 @@
 							<div class="brlgo">
 								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
 							</div>
-							<p>S.A.N.D.S Tech has consistently delivered high-quality work in due time. They have a very professional team who stood by me throughout my project's journey and ensured satisfactory outcome.</p>
+							<p>SANDS Tech has consistently delivered high-quality work in due time. They have a very professional team who stood by me throughout my project's journey and ensured satisfactory outcome.</p>
 						</div>
 					</div>
 				</li>

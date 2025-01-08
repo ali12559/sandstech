@@ -28,7 +28,7 @@
 						<h1 class="main-heading">Full-Scale Digital Marketing<span></span></h1>
 						<p>Welcome the best digital marketing agency in the market
 						</p>
-						<h5>Get winning strategies and affordable local SEO services to secure your place in the digital marketing playgrounds. S.A.N.D.S Tech specialize in delivering powerful solutions designed to capture audiences and turn visitors into returning customers.
+						<h5>Get winning strategies and affordable local SEO services to secure your place in the digital marketing playgrounds. SANDS Tech specialize in delivering powerful solutions designed to capture audiences and turn visitors into returning customers.
 						</h5>
 					</div>
 					<div class="col-md-6">

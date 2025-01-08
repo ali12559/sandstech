@@ -68,7 +68,7 @@ header ul.dsktpmenu li.dropdown.active a:after{bottom:-48px}
 header ul.dsktpmenu li a i,header ul.dsktpmenu li.dropdown .dropbtn i{color:#03B5FF;padding:0 0 0 4px;}
 header ul.dsktpmenu li.mnbtn a{color:#fff;font-size:18px;background:#009BFF;border-radius:28px;padding:15px 35px;}
 header ul.dsktpmenu li.active .dropdown-menu a:after{display:none;}
-header.is-sticky{position:fixed;box-shadow:0 5px 16px rgba(0,0,0,0.1);padding:8px 0;background: #fff;animation:slideDown 0.35s ease-out;width:100%;top:0;z-index:1;}
+header.is-sticky{position:fixed;box-shadow:0 5px 16px rgba(0,0,0,0.1);padding:8px 0;background: #fff;animation:slideDown 0.35s ease-out;width:100%;top:0;z-index: 10;}
 @keyframes slideDown{
     from{transform:translateY(-100%);}
     to{transform:translateY(0);}

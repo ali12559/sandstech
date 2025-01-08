@@ -23,7 +23,7 @@
 				<div class="row align-items-center">
 					<div class="col-md-6">
 						<div class="cnt">
-							<h1 class="main-heading">About S.A.N.D.S Tech</h1>
+							<h1 class="main-heading">About SANDS Tech</h1>
 							<h5 >We are a team of leaders and creators dedicated to bringing your brand to the forefront of the digital revolution.</h5>
 							<p>Our unique philosophy and operational methodologies are dedicated towards ROI enhancement with best-in-class practices. We aim to efficiently deliver satisfactory results and make your brand known. Our focus is your success which ultimately dictates our success.</p>
 							<img src="assets/images/about-us/clutchimg.png" alt="">
@@ -43,7 +43,7 @@
 					<div class="col-md-12">
 						<div class="head">
 							<h1 class="main-heading">Helping Brands <span>Succeed</span> - Since 2021</h1>
-							<p>S.A.N.D.S Tech has been in the market for over 2 years, providing top-notch app development, website development, and digital marketing services. We have helped hundreds of brands make a mark in the digital world - let’s work on yours.</p>
+							<p>SANDS Tech has been in the market for over 2 years, providing top-notch app development, website development, and digital marketing services. We have helped hundreds of brands make a mark in the digital world - let’s work on yours.</p>
 						</div>
 					</div>
 				</div>

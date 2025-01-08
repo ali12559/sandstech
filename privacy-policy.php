@@ -32,7 +32,7 @@
                   <div class="policyTxt">
                   <div class=""><br></div>
                      <h2>General Details</h2>
-                     <p>Throughout this Privacy Policy, we will use several terms to define us and our services. “Us, We, Our, or S.A.N.D.S” refers to S.A.N.D.S Tech, and “Service” refers to our {website link}. </p>
+                     <p>Throughout this Privacy Policy, we will use several terms to define us and our services. “Us, We, Our, or SANDS” refers to SANDS Tech, and “Service” refers to our {website link}. </p>
                      <p>This page is to inform you about the information and data collection, usage, and disclosure from when you use our website or related services. Please read carefully and only continue to use our website if you agree with this.</p>
                      <h2>Information We Collect</h2>
                      <p>We collect the following types of information. </p>
@@ -73,14 +73,14 @@
                      <p>Once the purpose is fulfilled, we delete all your stored data securely unless required by the law. You can refuse to accept the cookies and contact us at any time to remove your data. </p>
                      <h2>Information We Disclose</h2>
                      <h4>Legal Requirements</h4>
-                     <p>S.A.N.D.S Tech never shares your information or data with anyone, unless otherwise required by the law. We may disclose your information to:</p>
+                     <p>SANDS Tech never shares your information or data with anyone, unless otherwise required by the law. We may disclose your information to:</p>
                      <ul>
                         <li>Adhere to legal obligations</li>
                         <li>Protect the rights or property of our Service(s)</li>
                         <li>Prevent any unlawful acts and wrongdoings or investigate such instances</li>
                      </ul>
                      <h2>Information Security</h2>
-                     <p>S.A.N.D.S Tech strictly adheres to high-quality security standards and our users’ security and safety is our utmost priority. However, please remember that no online sharing or storage method is 100% secure. We use industry standard and acceptable security means to protect any information or data we collect and store, but we cannot guarantee full-proof security.</p>
+                     <p>SANDS Tech strictly adheres to high-quality security standards and our users’ security and safety is our utmost priority. However, please remember that no online sharing or storage method is 100% secure. We use industry standard and acceptable security means to protect any information or data we collect and store, but we cannot guarantee full-proof security.</p>
                      <h2>Third-Party Software Use</h2>
                      <p>We may use or partner with third-party companies and service providers to benefit our Service, promote their Service, or help analyze users’ activity and usage. These include:</p>
                      <h2>Google Analytics</h2>
@@ -88,7 +88,7 @@
                      <h2>Google Ads</h2>
                      <p>Google Ads helps track ad campaigns’ progress and understand user journeys for better engagements and success. We may use this tool to manage and display advertisements on our website or across the web. This will also involve the usage of cookies and other such technologies. Google may collect data or information to personalize the ads. </p>
                      <h2>Third-Party Links</h2>
-                     <p>You may see several third-party links across our website or service. We would like to inform you that we do not operate them or the website they redirect to. We strongly advise you to only click on the links you know, and carefully read the Privacy Policy of every link or site you visit. We have no control over any other website or service apart from S.A.N.D.S Tech, and thus, are not responsible for any content or breach of security. </p>
+                     <p>You may see several third-party links across our website or service. We would like to inform you that we do not operate them or the website they redirect to. We strongly advise you to only click on the links you know, and carefully read the Privacy Policy of every link or site you visit. We have no control over any other website or service apart from SANDS Tech, and thus, are not responsible for any content or breach of security. </p>
                      <h2>Changes To The Privacy Policy</h2>
                      <p>We may update or make changes to our Privacy Policy without prior notice. We may notify you regarding the changes by posting on this page, but we advise you to check for updates every time you visit. Changes will take effect immediately after being updated on this page. </p>
                      <p>If you have any questions or concerns about our Privacy Policy, please feel free to contact us.</p>

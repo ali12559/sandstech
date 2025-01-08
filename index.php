@@ -28,7 +28,7 @@
 					<div class="col-md-6" data-aos="fade-left">
 						<div class="pra" >
 							<span>Bold and Brilliant Solutions</span>
-							<p>Say goodbye to slow reach and hello to full-scale data-driven solutions from S.A.N.D.S Tech. We help you improve strategies, build powerful networks, and steal the spotlight from your competitors to secure your place in the digital market.</p>
+							<p>Say goodbye to slow reach and hello to full-scale data-driven solutions from SANDS Tech. We help you improve strategies, build powerful networks, and steal the spotlight from your competitors to secure your place in the digital market.</p>
 							<a class="arwbtn" href="<?php echo $path;?>contact-us.php"><i class="fa-solid fa-arrow-right"></i></a>
 						</div>
 					</div>
@@ -136,7 +136,7 @@
 			<div class="container">
 				<div class="row align-items-end ">
 					<div class="col-md-6 relative">
-						<h4 class="main-heading" data-aos="fade-right">About S<span>.</span>A<span>.</span>N<span>.</span>D<span>.</span>S Tech.</h4>
+						<h4 class="main-heading" data-aos="fade-right">About SANDS Tech.</h4>
 						<img class="lazy arow" data-src="<?php echo $basesurl;?>images/bluearrow.svg" alt="" src="<?php echo $basesurl;?>images/bluearrow.svg" data-loaded="true">
 					</div>
 					<div class="col-md-6">

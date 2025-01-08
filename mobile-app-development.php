@@ -26,7 +26,7 @@
 					<div class="col-md-6">
 						<h3 class="subhedng">Our Services</h3>
 						<h1 class="main-heading">Mobile App Development Company In USA<span></span></h1>
-						<p>Want a secure, affordable, and cutting-edge mobile application development? Look no further than S.A.N.D.S Tech. Throughout our 3+ years journey, we have established ourselves as a dominant mobile app development agency, helping clients bring their app idea to reality.</p>
+						<p>Want a secure, affordable, and cutting-edge mobile application development? Look no further than SANDS Tech. Throughout our 3+ years journey, we have established ourselves as a dominant mobile app development agency, helping clients bring their app idea to reality.</p>
 					</div>
 					<div class="col-md-6">
 						<div class="image">
