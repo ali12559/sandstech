@@ -25,7 +25,7 @@
 					<div class="col-md-12">
 						<h3 class="subhedng">Mobile Application</h3>
 						<h1 class="main-heading">Portfolio<span></span></h1>
-						<h5>Lorem ipsum dolor sit amet consectetur adipiscing elit odio, mattis quam.</h5>
+						<h5>A collection of work we are truly proud of.</h5>
 					</div>
 				</div>
 			</div>
