@@ -42,8 +42,9 @@ $(document).ready(function() {
         centerMode: true,
         centerPadding: "80px",
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         autoplaySpeed: 3000,
+        speed:2000,
         arrows: false,
         dots: false,
         cssEase: "linear",
@@ -596,13 +597,13 @@ $(function() {
             if (!logo.hasClass("sml-logo")) {
                 logo.hide();
                 logo.removeClass('lrg-logo').addClass("sml-logo").fadeIn("slow");
-                logo.attr("src", "assets/images/blcksmllogo.png"); // Change the image
+                // logo.attr("src", "assets/images/blcksmllogo.png"); // Change the image
             }
         } else {
             if (!logo.hasClass("lrg-logo")) {
                 logo.hide();
                 logo.removeClass("sml-logo").addClass('lrg-logo').fadeIn("slow");
-                logo.attr("src", "assets/images/logo.webp"); // Change the image
+                // logo.attr("src", "assets/images/logo.webp"); // Change the image
             }
         }
 

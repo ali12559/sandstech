@@ -79,7 +79,7 @@
 						<div class="cnt">
 							<p>High-expectations and the right talent behind your back are the key to everything. We have both and the motivation to help our clients succeed. We move forward with dedication, focus, and sheer-will to make it all possible.</p>
 							<div class="image">
-							<img src="assets/images/about-us/ctaimg.png" alt="">
+							<img src="assets/images/whitelogo.png" alt="">
 						</div>
 						</div>
 

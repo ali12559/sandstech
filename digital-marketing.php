@@ -237,7 +237,7 @@
 				<div class="row align-items-center">
 					<div class="col-md-9 col-sm-8 col-12">
 						<div class="cnt">
-							<h1>Ready To Bring Your <span>App Idea</span> To Life?
+							<h1>Ready To Bring Your <span>Idea</span> To Life?
 							</h1>
 						</div>
 					</div>

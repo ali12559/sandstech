@@ -1,5 +1,5 @@
 <?php  $phone = "+92 313 0375258"; ?>
-<?php  $email = "hello@sandstech.org"; ?>
+<?php  $email = "info@sandstech.org"; ?>
 
 
 <meta charset="utf-8">

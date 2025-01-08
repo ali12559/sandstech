@@ -89,19 +89,19 @@
 						<div class="mainr">
 							<div class="imgw">
 								<div class="pict">
-									<img src="<?php echo $basesurl;?>images/testi/img2.png" alt="">
+									<img src="<?php echo $basesurl;?>images/googleicon.png" alt="">
 								</div>
 								<div class="nmed">
-									<h5>Sara Jason</h5>
+									<h5>Syed Arshad Ali</h5>
 									<h6>CEO</h6>
 									<img src="<?php echo $basesurl;?>images/ionic-ios-star.svg" alt="">
-									<span>4.5</span>
+									<span>5</span>
 								</div>
 							</div>
 							<div class="brlgo">
-								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
+								 
 							</div>
-							<p>Working with SANDS Tech was a great experience. They have a highly collaborative team that follows a great overall development procedure. I am very satisfied with the results.</p>
+							<p>I had the opportunity to work with Sands tech. Sands Tech's approach to business consulting is characterized by a positive and natural style. Their team of experienced consultants has a deep understanding of the latest business trends and technologies. I would highly recommend them to anyone looking to start or enhance their business.</p>
 						</div>
 					</div>
 				</li>
@@ -110,19 +110,19 @@
 						<div class="mainr">
 							<div class="imgw">
 								<div class="pict">
-									<img src="<?php echo $basesurl;?>images/testi/img3.png" alt="">
+									<img src="<?php echo $basesurl;?>images/googleicon.png" alt="">
 								</div>
 								<div class="nmed">
-									<h5>William Johnson</h5>
+									<h5>Faraz Arif</h5>
 									<h6>MD</h6>
 									<img src="<?php echo $basesurl;?>images/ionic-ios-star.svg" alt="">
-									<span>4.5</span>
+									<span>5</span>
 								</div>
 							</div>
 							<div class="brlgo">
-								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
+								 
 							</div>
-							<p>I have been working with SANDS tech for quite a while now. I wanted to get an app developed for my new brand, but their performance and communication impressed me a lot. I chose them to manage and maintain my app and the results are perfect.</p>
+							<p>The people at sands tech are really professional and polite. They gathered and delivered all of my product requirements efficiently and accurately. They also provided alternative ways on how I could make my product better. It really was an outstanding experience.</p>
 						</div>
 					</div>
 				</li>
@@ -131,19 +131,19 @@
 						<div class="mainr">
 							<div class="imgw">
 								<div class="pict">
-									<img src="<?php echo $basesurl;?>images/testi/img1.png" alt="">
+									<img src="<?php echo $basesurl;?>images/googleicon.png" alt="">
 								</div>
 								<div class="nmed">
-									<h5>Smith Douglas</h5>
+									<h5>Tamour Siddiqui</h5>
 									<h6>COO</h6>
 									<img src="<?php echo $basesurl;?>images/ionic-ios-star.svg" alt="">
-									<span>4.5</span>
+									<span>5</span>
 								</div>
 							</div>
 							<div class="brlgo">
-								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
+								 
 							</div>
-							<p>It was a wonderful experience working with SANDS Tech. I really liked their methodological approach, creative thinking, and use of technology where it should be. I highly recommend the team.</p>
+							<p>Had the opportunity to work with Sands Tech, I can confidently say that their services are top-notch. From the initial consultation to the final implementation of their solutions, Sands Tech's team demonstrated a high level of professionalism, expertise, and attention to detail. They took the time to understand our business needs and provided tailored solutions that were both practical and effective. </p>
 						</div>
 					</div>
 				</li>
@@ -152,19 +152,19 @@
 						<div class="mainr">
 							<div class="imgw">
 								<div class="pict">
-									<img src="<?php echo $basesurl;?>images/testi/img1.png" alt="">
+									<img src="<?php echo $basesurl;?>images/googleicon.png" alt="">
 								</div>
 								<div class="nmed">
-									<h5>Jason Borge</h5>
+									<h5>Babar Ali Khan</h5>
 									<h6>Project Manager</h6>
 									<img src="<?php echo $basesurl;?>images/ionic-ios-star.svg" alt="">
-									<span>4.5</span>
+									<span>5</span>
 								</div>
 							</div>
 							<div class="brlgo">
-								<img src="<?php echo $basesurl;?>images/trustplt.svg" alt="">
+								 
 							</div>
-							<p>SANDS Tech has consistently delivered high-quality work in due time. They have a very professional team who stood by me throughout my project's journey and ensured satisfactory outcome.</p>
+							<p>Very helpful and punctuality helped alot in communication.</p>
 						</div>
 					</div>
 				</li>

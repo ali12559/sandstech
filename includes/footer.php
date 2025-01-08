@@ -11,7 +11,7 @@
             <div class="col-md-2 col-sm-3">
                 <div class="wrpr">
                     <h4>Quick Links</h4>
-                    <ul class="lnks">
+                    <ul class="lnks clrchng">
                         <li><a href="<?php echo $path;?>">Home</a></li>
                         <li><a href="<?php echo $path;?>about-us.php">About Us</a></li>
                         <li><a href="<?php echo $path;?>portfolio.php">Portfolio</a></li>
@@ -24,7 +24,7 @@
             <div class="col-md-2 col-sm-5">
                 <div class="wrpr">
                     <h4>Services </h4>
-                    <ul class="lnks">
+                    <ul class="lnks clrchng">
                         <li><a href="<?php echo $path;?>mobile-app-development.php">Mobile App Development</a></li>
                         <li><a href="<?php echo $path;?>web-development.php">Web Development</a></li>
                         <li><a href="<?php echo $path;?>e-commerce.php">E-commerce</a></li>

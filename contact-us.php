@@ -23,7 +23,7 @@
 			<div class="container">
 				<div class="row wow fadeInDown" data-wow-duration="2s" data-wow-delay="0.3s">
 					<div class="col-md-6">
-						<h1 class="main-heading">Have An App Idea?</h1>
+						<h1 class="main-heading">CONNECT WITH US<span>!</span></h1>
 						<p>Discuss with our experts and collaborate to make it a reality.</p>
 						<ul>
 							<li><a href="<?php echo $email;?>"><i class="fa-solid fa-envelope"></i> <?php echo $email;?></a></li>

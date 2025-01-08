@@ -53,7 +53,7 @@
 							<p>We help you design and launch your e-store with confidence, utilizing advanced technology and powerful strategies.
 							</p>
 							<!-- <div class="text-end">
-												<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
+													<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
 							</div> -->
 						</div>
 					</div>
@@ -64,7 +64,7 @@
 							<p>We are a cunning amazon, shopify, and tiktok marketing agency focused on helping you bring the audience to your store.
 							</p>
 							<!-- <div class="text-end">
-												<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
+													<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
 							</div> -->
 						</div>
 					</div>
@@ -76,7 +76,7 @@
 							<p>Whether you want to manage and build shopify store or want amazon e commerce store management, we ensure smooth performance at all times.
 							</p>
 							<!-- <div class="text-end">
-												<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
+													<a class="arwbtn" href="javascript:;"><i class="fa-solid fa-arrow-right"></i></a>
 							</div> -->
 						</div>
 					</div>
@@ -96,109 +96,115 @@
 				</div>
 				<div class="row brnd-slider">
 					<div class="col-md-4">
-						<div class="tpimg">
-							<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds1.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds1.png" data-loaded="true">
-						</div>
-						<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/tiktok.png);">
-							<div class="trnsf">
-								
-								<ul>
-									<li class="lft">
-										<h6>10k+</h6>
-										<span>Likes</span>
-									</li>
-									<li class="lft">
-										<h6>30k+</h6>
-										<span>Followers
-										</span>
-									</li>
-									<li>
-										<h6>100k+</h6>
-										<span>Views </span>
-									</li>
-								</ul>
+						<div class="box">
+							<div class="tpimg">
+								<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds1.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds1.png" data-loaded="true">
 							</div>
-						</div>
-						<div class="cnt">
-							<p>Boost your brand with creative TikTok campaigns that engage audiences and drive viral success.</p>
-							<h5>Influencer Partnerships:</h5>
-							<p>Connect with the right influencers for effective results.</p>
-							<h5>Creative Content:</h5>
-							<p>Captivate your audience with our diverse content strategies.
-							</p>
-							<h5>Ad Campaigns:</h5>
-							<p>Create and launch the most relevant ad campaigns for growth.</p>
+							<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/tiktok.png);">
+								<div class="trnsf">
+									
+									<ul>
+										<li class="lft">
+											<h6>10k+</h6>
+											<span>Likes</span>
+										</li>
+										<li class="lft">
+											<h6>30k+</h6>
+											<span>Followers
+											</span>
+										</li>
+										<li>
+											<h6>100k+</h6>
+											<span>Views </span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="cnt">
+								<p>Boost your brand with creative TikTok campaigns that engage audiences and drive viral success.</p>
+								<h5>Influencer Partnerships:</h5>
+								<p>Connect with the right influencers for effective results.</p>
+								<h5>Creative Content:</h5>
+								<p>Captivate your audience with our diverse content strategies.
+								</p>
+								<h5>Ad Campaigns:</h5>
+								<p>Create and launch the most relevant ad campaigns for growth.</p>
+							</div>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="tpimg">
-							<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds2.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds2.png" data-loaded="true">
-						</div>
-						<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/shopify.png);">
-							<div class="trnsf">
-								
-								<ul>
-									<li class="lft">
-										<h6>50+</h6>
-										<span>Stores </span>
-									</li>
-									<li class="lft">
-										<h6>1k+</h6>
-										<span>Orders </span>
-									</li>
-									<li>
-										<h6>10k+</h6>
-										<span>Traffic </span>
-									</li>
-								</ul>
+						<div class="box">
+							<div class="tpimg">
+								<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds2.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds2.png" data-loaded="true">
 							</div>
-							
-						</div>
-						<div class="cnt">
-							<p>Create a personalized Shopify store tailored for success and designed for maximum scalability.
-							</p>
-							<h5>Custom Design:</h5>
-							<p>Customized store creation according to your brand.
-							</p>
-							<h5>App Integration:</h5>
-							<p> Powerful integrations to ensure friendly and fast experiences.</p>
-							<h5>SEO & Marketing:</h5>
-							<p>Effective and advanced strategies for complete optimization</p>
+							<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/shopify.png);">
+								<div class="trnsf">
+									
+									<ul>
+										<li class="lft">
+											<h6>50+</h6>
+											<span>Stores </span>
+										</li>
+										<li class="lft">
+											<h6>1k+</h6>
+											<span>Orders </span>
+										</li>
+										<li>
+											<h6>10k+</h6>
+											<span>Traffic </span>
+										</li>
+									</ul>
+								</div>
+								
+							</div>
+							<div class="cnt">
+								<p>Create a personalized Shopify store tailored for success and designed for maximum scalability.
+								</p>
+								<h5>Custom Design:</h5>
+								<p>Customized store creation according to your brand.
+								</p>
+								<h5>App Integration:</h5>
+								<p> Powerful integrations to ensure friendly and fast experiences.</p>
+								<h5>SEO & Marketing:</h5>
+								<p>Effective and advanced strategies for complete optimization</p>
+							</div>
 						</div>
 					</div>
 					<div class="col-md-4">
-						<div class="tpimg">
-							<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds3.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds3.png" data-loaded="true">
-						</div>
-						<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/amazon.png);">
-							<div class="trnsf">
-								
-								<ul>
-									<li class="lft">
-										<h6>30+</h6>
-										<span>Brands </span>
-									</li>
-									<li class="lft">
-										<h6>100+</h6>
-										<span>Top </span>
-									</li>
-									<li>
-										<h6>1k+</h6>
-										<span>Orders </span>
-									</li>
-								</ul>
+						<div class="box">
+							<div class="tpimg">
+								<img class="lazy" data-src="<?php echo $basesurl;?>images/ecommerce-service/snds3.png" alt="" src="<?php echo $basesurl;?>images/ecommerce-service/snds3.png" data-loaded="true">
 							</div>
-						</div>
-						<div class="cnt">
-							<p>Get powerful management and maintenance service for your Amazon store.
-							</p>
-							<h5>Product Listings:</h5>
-							<p>Improve your product listings with detail-oriented optimization.
-							</p>
-							<h5>Amazon PPC:</h5>
-							<p>Launch and run paid ad campaigns with complete comfort.</p>
-							<h5>Inventory Management:</h5>
-							<p>Streamline your orders processing and delivery with more control. </p>
+							<div class="wrpp" style="background-image:url(assets/images/ecommerce-service/amazon.png);">
+								<div class="trnsf">
+									
+									<ul>
+										<li class="lft">
+											<h6>30+</h6>
+											<span>Brands </span>
+										</li>
+										<li class="lft">
+											<h6>100+</h6>
+											<span>Top </span>
+										</li>
+										<li>
+											<h6>1k+</h6>
+											<span>Orders </span>
+										</li>
+									</ul>
+								</div>
+							</div>
+							<div class="cnt">
+								<p>Get powerful management and maintenance service for your Amazon store.
+								</p>
+								<h5>Product Listings:</h5>
+								<p>Improve your product listings with detail-oriented optimization.
+								</p>
+								<h5>Amazon PPC:</h5>
+								<p>Launch and run paid ad campaigns with complete comfort.</p>
+								<h5>Inventory Management:</h5>
+								<p>Streamline your orders processing and delivery with more control. </p>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -222,7 +228,6 @@
 							</p>
 							<div class="btn">
 								<a href="<?php echo $path;?>contact-us.php">Let's Discuss <i class="fa-solid fa-arrow-right"></i> </a>
-
 							</div>
 						</div>
 						
@@ -235,13 +240,12 @@
 				<div class="row align-items-center">
 					<div class="col-md-9 col-sm-8 col-12">
 						<div class="cnt">
-							<h1>Ready To Bring your <span>App Idea</span> To Life? </h1>
+							<h1>Ready To Bring your <span>Idea</span> To Life? </h1>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-4 col-12 text-end">
 						<div class="btn">
 							<a href="<?php echo $path;?>contact-us.php">Get a Quote <i class="fa-solid fa-arrow-right"></i> </a>
-
 						</div>
 					</div>
 				</div>

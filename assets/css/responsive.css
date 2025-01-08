@@ -1,4 +1,5 @@
 @media only screen and (max-width:1599px){
+	.ecmsec .cnt{left:300px}
 }
 @media only screen and (max-width:1399px){
 	.main-heading{font-size:55px}
@@ -47,6 +48,13 @@
 	.ecmrce .mainwr.top img{height:418px;}
 	.ecomboxes .box{height:300px;}
 	.ecomvisn .wrp h3{margin:0 0 30px 30px}
+	header.is-sticky{padding: 8px 0;}
+	header.is-sticky ul.dsktpmenu li.dropdown.active a:after{bottom:-35px;}
+	header .lgo img.sml-logo{}
+	.ecmsec{padding:250px 0!important;}
+	.ecmsec .cnt h3{font-size:32px}
+	.ecmsec .cnt{left:230px;}
+	.brnd.snds .wrpp{height:215px}
 }
 @media only screen and (max-width:1380px){
 }
@@ -112,6 +120,14 @@
 	.cnclsn.glmgrd .image:before{right:-150px}
 	.ecmrce .mainwr.top img{height:352px}
 	.ecomvisn .wrp h3{margin:0 0 30px 30px}
+    header.is-sticky {
+        padding: 18px 0;
+    }
+	.ecomrc .srvcs:before{width:310px;height:610px}
+	.ecmsec .cnt{padding:80px 110px;}
+	.ecmsec{padding:300px 0!important;}
+	.brnd.snds .wrpp{height:180px;}
+
 }
 @media only screen and (max-width:1280px){
 }
@@ -206,6 +222,12 @@
 	.boxes .box{margin:20px 0;}
 	.ecomboxes .box{height:310px}
 	.ecomvisn .wrp h3{margin:0 0 30px 30px}
+	.ecomrc .brnd .box{margin:0 10px}
+	.ecmsec .cnt{padding:80px 100px;}
+	.ecmsec .cnt{left:170px;}
+	.ecmsec .cnt h3{font-size:28px;}
+	.ecmsec .cnt p{font-size:14px;}
+	.brnd.snds .wrpp{height:205px;}
 }
 @media only screen and (max-width:820px){
 }
@@ -266,8 +288,14 @@
 	.cntct ul li a{font-size:22px;}
 	.relty .rht h5{margin:10px 0 0 0}
 	.relty .tp{margin:0 0 50px 0}
-	header .sml-logo{width:15%}
+	header .lgo img.sml-logo{width:13%}
 	.boxes .box ul{height:180px}
+	.ecomrc .srvcs:before{width:210px;height:410px;}
+	.brnd.snds .wrpp{height:310px;}
+	.ecmsec .imge img{display:none;}
+	.ecmsec .cnt{left:0;padding:40px 30px;}
+	.sercta{margin:80px 0 0 0}
+	.ecmsec .btn a{padding:15px 30px;}
 }
 @media only screen and (max-width:575px){
 	.main-heading{font-size:24px}
@@ -315,11 +343,13 @@
 	.csstdy .mainwr .cntn h5{font-size:30px;}
 	.cntct ul li a{font-size:18px;}
 	.cntct p{padding:20px 0;}
-	header.is-sticky{display: none;}
-	.nav.is-sticky{display: none;}
-	.copyright .text-end{text-align: center !important;}
-	.copyright ul.socl{margin: 10px 0;}
-	.copyright p.usd{padding: 10px 0 0 0;}
+	header.is-sticky{display:none;}
+	.nav.is-sticky{display:none;}
+	.copyright .text-end{text-align:center!important;}
+	.copyright ul.socl{margin:10px 0;}
+	.copyright p.usd{padding:10px 0 0 0;}
+	.sercta{margin:100px 0 0 0;}
+	.brnd.snds .hed p{font-size:16px;width:100%;}
 }
 @media only screen and (max-width:479px){
 	header .lgo img{width:60%;}
@@ -393,7 +423,10 @@
 	.boxes .box ul{height:330px}
 	.ecomboxes .box{height:300px}
 	.ecomboxes .box p{overflow-y:auto;height:200px}
-
+	.ecmsec .cnt{padding:40px 10px}
+	.ecmsec .cnt h3{font-size:20px;}
+	.ecmsec .cnt p{font-size:12px;}
+	.ecmsec .btn a{padding:10px 20px;}
 }
 @media only screen and (max-width:480px){
 }

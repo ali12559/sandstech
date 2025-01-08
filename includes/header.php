@@ -58,7 +58,7 @@ $folder_name = ""; $path = 'https://'.$_SERVER['HTTP_HOST'].'/'.$folder_name;
                      <ul class="dropdown-menu ">
                         <li><i class="fa-solid fa-mobile-screen-button"></i><a href="<?php echo $path;?>mobile-app-development.php">Mobile App Development</a></li>
                         <li><i class="fa-solid fa-laptop"></i><a href="<?php echo $path;?>web-development.php">Web Development</a></li>
-                        <li><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>ecommerce-service.php">E-commerce</a></li>
+                        <li><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>e-commerce.php">E-commerce</a></li>
                         <li class="btmn"><i class="fa-solid fa-bullhorn fa-rotate-by" style="--fa-rotate-angle: -25deg;"></i><a href="<?php echo $path;?>digital-marketing.php">Digital Marketing</a></li>
                      </ul>
                   </li>
