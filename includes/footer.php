@@ -90,6 +90,11 @@
         </div>
     </div>
 </div>
+
+<button class="back-to-top" type="button">
+    <i class="fa-solid fa-chevron-up"></i>
+</button>
+
 </main>
 <script src="<?php echo $basesurl;?>js/mlib.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/wow/0.1.12/wow.min.js" defer></script>
