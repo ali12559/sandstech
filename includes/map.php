@@ -29,3 +29,6 @@
 				</div>
 			</div>
 		</div>
+			<div class="text-center">
+			<img class="lazy " data-src="<?php echo $basesurl;?>images/brand-logos.png" alt="" src="<?php echo $basesurl;?>images/brand-logos.png" data-loaded="true">
+			</div>

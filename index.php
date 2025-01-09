@@ -37,7 +37,7 @@
 					<div class="col-md-12">
 						<div class="vdo" data-aos="zoom-in">
 							<video width="100%" playsinline="" muted="" loop="" class="mainvideo" preload="auto" autoplay="" poster="#" style="filter: brightness(0.9);">
-								<source src="<?php echo $basesurl;?>images/bnrvdeo.mp4" type="video/mp4">
+								<source src="<?php echo $basesurl;?>images/bnrvdeonew.mp4" type="video/mp4">
 							</video>
 						</div>
 					</div>

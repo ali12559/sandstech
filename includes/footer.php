@@ -4,7 +4,8 @@
             <div class="col-md-4">
                 <div class="hed">
                     <a class="ftlgo" href="<?php echo $path;?>"><img class="lazy " data-src="<?php echo $basesurl;?>images/logo.webp" alt="" src="<?php echo $basesurl;?>images/logo.webp" data-loaded="true"></a>
-                    <img class="lazy " data-src="<?php echo $basesurl;?>images/brand-logo.png" alt="" src="<?php echo $basesurl;?>images/brand-logo.png" data-loaded="true">
+                    <img class="lazy" src="<?php echo $basesurl; ?>images/footercards.png" alt="*">
+                    <p class="usd">We accept payments in USD.</p>
                     
                 </div>
             </div>
@@ -84,8 +85,7 @@
                 </ul>
             </div>
             <div class="col-md-4 col-sm-4 col-12 text-end">
-                <img class="lazy" src="<?php echo $basesurl; ?>images/footercards.png" alt="*">
-                    <p class="usd">We accept payments in USD.</p>
+                <a href="//www.dmca.com/Protection/Status.aspx?ID=6d32feb2-90ad-4fec-86b6-7fd449929e19" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca-badge-w100-2x1-03.png?ID=6d32feb2-90ad-4fec-86b6-7fd449929e19"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
             </div>
         </div>
     </div>

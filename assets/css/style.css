@@ -209,6 +209,7 @@ footer ul.tabs li {
     margin: 0px 0 10px;
     position: relative;
 }
+footer p.usd{color:#B9B9B9;font-size:12px;line-height:normal;padding:8px 0 0 13px;}
 footer .wrpr ul.lnks ul.tabs li:before{}
 footer .wrpr ul.lnks ul.tabs li.current:before{
     content: '\f107';
@@ -248,7 +249,6 @@ footer .wrpr ul.lnks ul.tabs li.current:after {
 */
 
 .copyright{padding:25px 0;}
-.copyright p.usd{color:#B9B9B9;font-size:12px;line-height:normal;padding:5px 0 0 0;}
 .copyright ul.socl{display:flex;justify-content:center;gap:40px;margin:0;padding:0;}
 .copyright ul.socl li{}
 .copyright ul.socl li a i{display:inline-block;color:#000;font-size:25px;}

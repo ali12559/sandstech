@@ -4,6 +4,7 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name='dmca-site-verification' content='d3ZDamZKNTJEUmtQZWdaUko4MkplUT090' />
 <meta name="robots" content="index,follow">
 <link rel="icon" href="<?php echo $basesurl;?>images/fav.png"/>
 <meta name="google-site-verification" content="psMw95Xqj6nQJ2YskBvBchZYslIe5OBQNlDxBubdO4o" />
