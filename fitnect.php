@@ -61,7 +61,7 @@
 					</div>
 					<div class="col-md-6">
 						<div class="cnt">
-							<h3 class="main-heading"><span class="drkorngclr">Download</span> Our Mobile Application</h3>
+							<h3 class="main-heading"><span class="yloclr">Download</span> Our Mobile Application</h3>
 							<p>Engage in direct, real-time one-on-one interactions with top fitness influencers, gaining personalized guidance and support tailored to your fitness goals. Receive motivational encouragement from certified personal trainers who help you stay on track and push beyond your limits. Enjoy a user-friendly experience with a sleek, intuitive interface that makes scheduling and communication simple and efficient, ensuring you get the most out of every training session.
 							</p>
 							<ul >
