@@ -66,8 +66,8 @@
 
 							</p>
 							<ul >
-								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/googleplay.png"></a></li>
-								<li><a href="<?php echo $path;?>contact-us.php"><img src="assets/images/appstore.png"></a></li>
+								<li><a href="https://play.google.com/store/apps/details?id=com.swish_basketball" target="_blank"><img src="assets/images/googleplay.png"></a></li>
+								<li><a href="https://apps.apple.com/pk/app/swish-llc/id6499595508" target="_blank"><img src="assets/images/appstore.png"></a></li>
 							</ul>
 						</div>
 					</div>

@@ -32,7 +32,8 @@ $folder_name = ""; $path = 'https://'.$_SERVER['HTTP_HOST'].'/'.$folder_name;
                   <li class="lnk dropdown "><a href="javascript:;">Case Studies <i class="fa-solid fa-caret-down"></i></a>
                   <ul class="dropdown-menu ">
                      <li><i class="fa-solid fa-mobile-screen-button"></i><a href="<?php echo $path;?>mobile-case-studies.php">Mobile Application</a></li>
-                     <li class="btmn"><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>ecommerce-case-studies.php">E-Commerce</a></li>
+                     <li class=""><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>ecommerce-case-studies.php">E-Commerce</a></li>
+                     <li class="btmn"><i class="fa-solid fa-laptop"></i><a href="<?php echo $path;?>website-case-studies.php">Website</a></li>
                   </ul>
                </li>
                <li class="lnk "><a href="<?php echo $path;?>contact-us.php">Contact Us</a></li>
@@ -66,7 +67,8 @@ $folder_name = ""; $path = 'https://'.$_SERVER['HTTP_HOST'].'/'.$folder_name;
                   <li class="lnk dropdown "><a href="javascript:;">Case Studies <i class="fa-solid fa-caret-down"></i></a>
                   <ul class="dropdown-menu ">
                      <li><i class="fa-solid fa-mobile-screen-button"></i><a href="<?php echo $path;?>mobile-case-studies.php">Mobile Application</a></li>
-                     <li class="btmn"><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>ecommerce-case-studies.php">E-Commerce</a></li>
+                     <li class=""><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>ecommerce-case-studies.php">E-Commerce</a></li>
+                     <li class="btmn"><i class="fa-solid fa-cart-shopping"></i><a href="<?php echo $path;?>Website-case-studies.php">Website</a></li>
                   </ul>
                </li>
                <li class="lnk "><a href="<?php echo $path;?>contact-us.php">Contact Us</a></li>
