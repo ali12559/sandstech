@@ -36,7 +36,7 @@
 					<div class="col-md-6">
 						<div class="mainwr top">
 							<a href="<?php echo $path;?>agenci7.php">
-								<img class="lazy " data-src="<?php echo $basesurl;?>images/website/img1bg.png" alt="" src="<?php echo $basesurl;?>images/website/img1.png" data-loaded="true">
+								<img class="lazy ht260" data-src="<?php echo $basesurl;?>images/website/img1bg.png" alt="" src="<?php echo $basesurl;?>images/website/img1.png" data-loaded="true">
 								<div class="cntn">
 									<h5>Agenci7</h5>
 									<p>When it aimed to expand its impact, it was already offering great services in website development, digital marketing, and media production. However, the agency wanted to maximize...</p>
@@ -50,7 +50,7 @@
 					<div class="col-md-6">
 						<div class="mainwr top">
 							<a href="<?php echo $path;?>mbs-global.php">
-								<img class="lazy " data-src="<?php echo $basesurl;?>images/website/img2bg.png" alt="" src="<?php echo $basesurl;?>images/website/img1.png" data-loaded="true">
+								<img class="lazy ht260" data-src="<?php echo $basesurl;?>images/website/img2bg.png" alt="" src="<?php echo $basesurl;?>images/website/img1.png" data-loaded="true">
 								<div class="cntn">
 									<h5>MBS Global</h5>
 									<p>MBS Global Investments is a global investment leader that approached SandsTech. They needed a website that reflected their commitment and mission to revolutionize the global...</p>

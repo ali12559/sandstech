@@ -487,6 +487,6 @@ button.back-to-top i { color: #fff }
 .webcstudy .mainwr a img { }
 .webcstudy .mainwr a .imge { position: relative; top: -170px; }
 .webcstudy .mainwr a .imge img { }
-.webcstudy .cntn { position: absolute; top: 50px; left: 50px; right: 41px; }
-.webcstudy .cntn h5 { color: #FFF; font-size: 50px; font-family: 'Manrope'; font-weight: 800; }
+.webcstudy .cntn { position: absolute; top: 40px; left: 50px; right: 41px; }
+.webcstudy .cntn h5 { color: #FFF; font-size: 50px; font-family: 'Manrope'; font-weight: 800;margin:0 0 20px 0 }
 .webcstudy .cntn p { color: #FFF; font-size: 17px; font-family: 'Manrope'; font-weight: 400; }

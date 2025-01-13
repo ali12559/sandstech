@@ -80,7 +80,7 @@
 						<div class="wrp mt40">
 							<h5>The Takeaway: 
 							</h5>
-							<p>Agenci7 works closely with businesses to create personalized strategies - just like they want it.</p> <p class="mt10">By refining their brand image and creating targeted digital solutions, Agenci7 helps businesses build a strong presence that’s memorable and prints itself firmly in people’s minds </p>
+							<p class="mt10">Agenci7 works closely with businesses to create personalized strategies - just like they want it.</p> <p class="mt10">By refining their brand image and creating targeted digital solutions, Agenci7 helps businesses build a strong presence that’s memorable and prints itself firmly in people’s minds </p>
 							<p class="mt10">
 							And just like that, with a focus on innovation and simplicity, Agenci7 makes sure that its clients connect with their audiences in meaningful ways and achieve real growth in the competitive space.</p>
 						</div>
