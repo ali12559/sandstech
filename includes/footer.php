@@ -41,20 +41,20 @@
                             <a href="mailto:<?php echo $email;?>"><?php echo $email;?></a>
                         </li>
                         <ul class="tabs">
-                            <li class="current" data-targetit="pak"><img src="<?php echo $basesurl; ?>images/pakflg.png"></li>
-                            <li class="" data-targetit="uae"><img src="<?php echo $basesurl; ?>images/uaeflg.png"></li>
+                            <!-- <li class="" data-targetit="pak"><img src="<?php echo $basesurl; ?>images/pakflg.png"></li> -->
+                            <li class="current" data-targetit="uae"><img src="<?php echo $basesurl; ?>images/uaeflg.png"></li>
                             <li class="" data-targetit="usa"><img src="<?php echo $basesurl; ?>images/usaflg.png"></li>
                         </ul>
-                        <li class="current my-tabs pak" >
+                        <!-- <li class=" my-tabs pak" >
                             <a href="tel:<?php echo $phone;?>"><?php echo $phone;?></a>
                         </li>
-                        <li class="current my-tabs pak" >
+                        <li class=" my-tabs pak" >
                             <a href="javascript:;">Office# 202, Balad Trade Centre II, 203 Alamgir Rd, Bahadurabad Bahadur Yar Jang CHS, Karachi, 07482</a>
-                        </li>
-                        <li class=" my-tabs uae">
+                        </li> -->
+                        <li class="current my-tabs uae">
                             <a href="tel:+971521248621">+971 52 124 8621</a>
                         </li>
-                        <li class=" my-tabs uae">
+                        <li class="current my-tabs uae">
                             <a href="javascript:;">Meydan Grandstand, 6th floor, Meydan Road, Nad Al Sheba, Dubai, U.A.E.</a>
                         </li>
                         <li class=" my-tabs usa">
